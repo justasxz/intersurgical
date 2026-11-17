@@ -74,3 +74,6 @@ for vehicle in vehicles:
         vehicle.display_info()  # This will work for Car
         vehicle.make_sound()  # This will work for Car
     # vehicle.display_info()  # This will raise an AttributeError for Vehicle and Motorcycle since they don't have display_info method
+
+
+print("hello this is friends change")
