@@ -45,3 +45,5 @@ def delete_employee(employee_id):
     session.execute(stm)
     session.commit()
 
+# hello
+print("Hello, world!")
